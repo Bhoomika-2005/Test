@@ -5,7 +5,10 @@ add()
   print("Addition");
 }
   
-sub();
+sub()
+{
+  print("Multiplication")
+    }
 mul();
 div();
 }
