@@ -14,6 +14,8 @@ mul();
 {
   print("Subtraction");
  }
-mul();
 div();
+{
+  print("Division")
+    }
 }
