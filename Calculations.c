@@ -6,6 +6,9 @@ add()
 }
   
 sub();
+{
+  print("Subtraction");
+ }
 mul();
 div();
 }
