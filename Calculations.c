@@ -10,7 +10,7 @@ sub()
 {
   print("Multiplication")
     }
-sub();
+mul();
 {
   print("Subtraction");
  }
