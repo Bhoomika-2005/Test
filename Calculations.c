@@ -12,13 +12,4 @@ sub()
 {
   print("Multiplication")
     }
-mul();
-{
-  print("Subtraction");
- }
-div();
-{
-  print("Division")
-    
-    }
 }
