@@ -1,4 +1,4 @@
-
+print("Hello world");
 main()
 {
 add()
@@ -18,5 +18,6 @@ mul();
 div();
 {
   print("Division")
+    
     }
 }
