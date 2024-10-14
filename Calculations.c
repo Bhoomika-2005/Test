@@ -1,4 +1,5 @@
 print("Hello world");
+print("Changes done");
 main()
 {
 add()
